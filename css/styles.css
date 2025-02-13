@@ -252,8 +252,8 @@ h3 {
     margin-bottom: 8px;
 }
 
-.feature-text-li {
-    flex-basis: calc((100% - 3 * 24px) / 4);
+.feature-text-list {
+    width: calc((100% - 72px) / 4);
 }
 
 .team-section {
