@@ -304,7 +304,6 @@ h3 {
 
 .portfolio-card {
     width: calc((100% - 48px) / 3);
-    width: calc((100% - 48px) / 3);
 }
 
 .portfolio-card-div {
@@ -314,7 +313,6 @@ h3 {
 }
 
 .portfolio-list {
-    display: flex;
     flex-wrap: wrap;
     gap: 48px 24px;
     display: flex;
