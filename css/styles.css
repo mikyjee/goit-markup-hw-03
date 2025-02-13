@@ -268,9 +268,6 @@ h3 {
     text-transform: capitalize;
     color: #2e2f42;
     margin-bottom: 72px;
-    padding: 120px 0;
-    border-top: none;
-    padding: 32px 16px;
 }
 
 .team-list {
@@ -306,7 +303,6 @@ h3 {
     text-transform: capitalize;
     color: #2e2f42;
     margin-bottom: 72px;
-    padding: 120px 0;
 }
 
 .portfolio-card-name {
@@ -330,8 +326,6 @@ h3 {
     flex-wrap: wrap;
     gap: 48px 24px;
     display: flex;
-    border-top: none;
-    padding: 32px 16px;
 }
 
 /* footer */
