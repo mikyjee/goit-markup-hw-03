@@ -255,6 +255,7 @@ h3 {
 .team-section {
     background-color: #F4F4FD;
     padding: 120px 0;
+    flex-basis: calc((100% - 3 * 24px) / 4);
 }
 
 .team-title {
@@ -289,7 +290,7 @@ h3 {
 .portfolio-section {
     background-color: #ffffff;
     padding: 120px 0;
-    flex-basis: calc((100% - 3 * 24px) / 4);
+
 }
 
 .portfolio-title {
