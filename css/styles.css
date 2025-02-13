@@ -56,8 +56,10 @@ h3 {
 
 .container {
     max-width: 1158px;
+    width: 1158px;
     padding: 0 15px;
     margin: 0 auto;
+    max-width: 1158px;
     max-width: 1158px;
 }
 
@@ -268,6 +270,7 @@ h3 {
     text-transform: capitalize;
     color: #2e2f42;
     margin-bottom: 72px;
+
 }
 
 .team-list {
