@@ -252,7 +252,7 @@ h3 {
     margin-bottom: 8px;
 }
 
-.footer-text-li {
+.feature-text-li {
     flex-basis: calc((100% - 3 * 24px) / 4);
 }
 
