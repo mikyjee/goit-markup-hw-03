@@ -254,6 +254,7 @@ h3 {
 
 .team-section {
     background-color: #F4F4FD;
+    padding: 120px 0;
 }
 
 .team-title {
@@ -266,7 +267,6 @@ h3 {
 .team-list {
     display: flex;
     gap: 24px;
-    padding: 120px 0 120px 0;
 }
 
 .team-card {
@@ -288,6 +288,7 @@ h3 {
 
 .portfolio-section {
     background-color: #ffffff;
+    padding: 120px 0;
 }
 
 .portfolio-title {
@@ -295,7 +296,6 @@ h3 {
     text-transform: capitalize;
     color: #2e2f42;
     margin-bottom: 72px;
-    padding-top: 120px;
 }
 
 .portfolio-card-name {
