@@ -255,7 +255,6 @@ h3 {
 .team-section {
     background-color: #F4F4FD;
     padding: 120px 0;
-    flex-basis: calc((100% - 3 * 24px) / 4);
 }
 
 .team-title {
@@ -263,11 +262,13 @@ h3 {
     text-transform: capitalize;
     color: #2e2f42;
     margin-bottom: 72px;
+    flex-basis: calc((100% - 3 * 24px) / 4);
 }
 
 .team-list {
     display: flex;
     gap: 24px;
+
 }
 
 .team-card {
