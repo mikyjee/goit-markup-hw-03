@@ -295,6 +295,7 @@ h3 {
     text-transform: capitalize;
     color: #2e2f42;
     margin-bottom: 72px;
+
 }
 
 .portfolio-card-name {
@@ -316,6 +317,8 @@ h3 {
     flex-wrap: wrap;
     gap: 48px 24px;
     display: flex;
+    padding-top: 120px;
+    padding-bottom: 120px;
 }
 
 /* footer */
