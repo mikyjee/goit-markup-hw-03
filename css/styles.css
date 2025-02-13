@@ -267,6 +267,7 @@ h3 {
 .team-list {
     display: flex;
     gap: 24px;
+    padding: 120px 0 120px 0;
 }
 
 .team-card {
