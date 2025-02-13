@@ -238,13 +238,10 @@ h3 {
 }
 
 .feature-card {
-    width: calc((100% - 72px) / 4);
     flex-basis: calc((100% - 3 * 24px) / 4);
 }
 
 .feature-section {
-    padding-top: 120px;
-    padding-bottom: 120px;
     padding: 120px 0;
 }
 
@@ -270,13 +267,11 @@ h3 {
 .team-list {
     display: flex;
     gap: 24px;
-    display: flex;
 }
 
 .team-card {
     background-color: #ffffff;
     width: calc((100% - 72px) / 4);
-    flex-basis: calc((100% - 3 * 24px) / 4);
     border-radius: 0px 0px 4px 4px;
     box-shadow: 0 1px 6px rgba(46, 47, 66, 0.08);
 }
